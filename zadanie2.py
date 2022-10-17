@@ -5,8 +5,8 @@ def zad2():
     print("to end input '0'")
 
     while 1:
-        inputInteger = input()
-2        if inputInteger == 0:
+        inputInteger = int(input())
+        if inputInteger == 0:
             break
         intList.append(inputInteger)
     
