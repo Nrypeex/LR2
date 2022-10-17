@@ -1,5 +1,5 @@
 def zad2():
-    intList
+    intList = []
 
     print("input >0 nums")
     print("to end input '0'")
