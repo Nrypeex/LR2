@@ -6,7 +6,7 @@ def zad2():
 
     while 1:
         inputInteger = input()
-        if inputInteger == 0:
+2        if inputInteger == 0:
             break
         intList.append(inputInteger)
     
