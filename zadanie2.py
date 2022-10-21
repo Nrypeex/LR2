@@ -8,6 +8,7 @@ def zad2():
     print("to end input '0'")
 
     while 1:
+
         inputInteger = int(input())
         if inputInteger == 0:
             break
@@ -18,7 +19,7 @@ def zad2():
         if(intList[i] % 5 == 0): doFor5.append(intList[i])
     print(doFor2)
     print(doFor3)
-    print(doFor4)
+    print(doFor5)
 
 
             
