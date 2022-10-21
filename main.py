@@ -1,2 +1,2 @@
-import zadanie2
-zadanie2.zad2()
+import zadanie3
+zadanie3.zad3()
