@@ -1,2 +1,2 @@
-import zadanie4
-zadanie4.NRoot()
+import zadanie5
+zadanie5.isPrime()
