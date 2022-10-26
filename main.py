@@ -1,2 +1,2 @@
-import zadanie3
-zadanie3.zad3()
+import zadanie4
+zadanie4.NRoot()
