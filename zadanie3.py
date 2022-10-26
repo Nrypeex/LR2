@@ -11,6 +11,6 @@ def zad3():
         a=a/10
         b = int(b/10)
         c+=1
-    print (a*(10**c))
+    print (a*(10**c)) 
     if a<0 : invrs *= -1
     print(invrs/10)
